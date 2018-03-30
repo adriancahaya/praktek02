@@ -3,6 +3,11 @@ package praktek02;
 public class Jendela {
     double panjang;
     double lebar;
+
+    public Jendela() {
+        panjang=5;
+        lebar=9;
+    }
     
     void cetakinfo(){
           System.out.println("====================");
