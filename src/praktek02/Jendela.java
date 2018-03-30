@@ -11,7 +11,11 @@ public class Jendela {
           System.out.println("====================");
     }
     
-
+    double hitungluas(){
+        double luas;
+        luas=panjang*lebar;
+        return luas;
 
 }
 
+}

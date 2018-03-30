@@ -7,6 +7,7 @@ public class jendelaAksi {
         r1.lebar = 9;
    
         r1.cetakinfo();
+        System.out.println("Luas jendela = "+r1.hitungluas());
     }
             
 }
