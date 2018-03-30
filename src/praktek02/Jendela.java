@@ -8,6 +8,13 @@ public class Jendela {
         panjang=5;
         lebar=9;
     }
+
+    public Jendela(double panjang, double lebar) {
+        this.panjang = panjang;
+        this.lebar = lebar;
+    }
+    
+    
     
     void cetakinfo(){
           System.out.println("====================");
