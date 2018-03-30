@@ -7,6 +7,7 @@ public class Jendela {
     public Jendela() {
         panjang=5;
         lebar=9;
+        lebar=10;
     }
 
     public Jendela(double panjang, double lebar) {
