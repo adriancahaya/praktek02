@@ -8,6 +8,7 @@ public class jendelaAksi {
    
         r1.cetakinfo();
         System.out.println("Luas jendela = "+r1.hitungluas());
+        r1.cetakluas();
     }
             
 }
